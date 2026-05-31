@@ -1,5 +1,5 @@
 # SistemaBibliotecario_
-# Especificación del Módulo Libros
+## Especificación del Módulo Libros
 
 Objetivo:
 Permitir la gestión de libros dentro del sistema bibliotecario.
