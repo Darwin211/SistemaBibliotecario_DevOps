@@ -17,6 +17,7 @@ namespace SistemaBibliotecario.Formulario
         public FrmLibros()
         {
             InitializeComponent();
+            this.Text = "Gestion de Libros";
           
         }
         public void Limpiar()
