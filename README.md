@@ -8,7 +8,6 @@ Requisitos funcionales:
 - Registrar libros.
 - Editar libros.
 - Eliminar libros.
-- Buscar libros.
 - Mostrar listado de libros.
 
 Datos del libro:
