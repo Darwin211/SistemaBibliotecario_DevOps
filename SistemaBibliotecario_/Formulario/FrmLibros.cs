@@ -17,7 +17,8 @@ namespace SistemaBibliotecario.Formulario
         public FrmLibros()
         {
             InitializeComponent();
-            this.Text = "Gestión de Libros - DevOps";
+            this.Text = "Gestion de Libros";
+          
         }
         public void Limpiar()
         {
